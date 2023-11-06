@@ -1,0 +1,1 @@
+using PCA methode to reduce the dimension , instead of 8 features in the dateset , we reduced them to three
